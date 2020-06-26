@@ -1,0 +1,9 @@
+C:\Users\tiend\OneDrive\ado\a\Quanlybanhang\Quanlybanhang\obj\Debug\Quanlybanhang.csprojAssemblyReference.cache
+C:\Users\tiend\OneDrive\ado\a\Quanlybanhang\Quanlybanhang\obj\Debug\Quanlybanhang.frmDMChatlieu.resources
+C:\Users\tiend\OneDrive\ado\a\Quanlybanhang\Quanlybanhang\obj\Debug\Quanlybanhang.Properties.Resources.resources
+C:\Users\tiend\OneDrive\ado\a\Quanlybanhang\Quanlybanhang\obj\Debug\Quanlybanhang.csproj.GenerateResource.cache
+C:\Users\tiend\OneDrive\ado\a\Quanlybanhang\Quanlybanhang\obj\Debug\Quanlybanhang.csproj.CoreCompileInputs.cache
+C:\Users\tiend\OneDrive\ado\a\Quanlybanhang\Quanlybanhang\bin\Debug\Quanlybanhang.exe
+C:\Users\tiend\OneDrive\ado\a\Quanlybanhang\Quanlybanhang\bin\Debug\Quanlybanhang.pdb
+C:\Users\tiend\OneDrive\ado\a\Quanlybanhang\Quanlybanhang\obj\Debug\Quanlybanhang.exe
+C:\Users\tiend\OneDrive\ado\a\Quanlybanhang\Quanlybanhang\obj\Debug\Quanlybanhang.pdb
