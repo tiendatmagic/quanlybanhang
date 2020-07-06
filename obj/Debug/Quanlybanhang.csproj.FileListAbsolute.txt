@@ -7,3 +7,11 @@ C:\Users\tiend\OneDrive\ado\a\Quanlybanhang\Quanlybanhang\bin\Debug\Quanlybanhan
 C:\Users\tiend\OneDrive\ado\a\Quanlybanhang\Quanlybanhang\bin\Debug\Quanlybanhang.pdb
 C:\Users\tiend\OneDrive\ado\a\Quanlybanhang\Quanlybanhang\obj\Debug\Quanlybanhang.exe
 C:\Users\tiend\OneDrive\ado\a\Quanlybanhang\Quanlybanhang\obj\Debug\Quanlybanhang.pdb
+D:\quanlybanhang\obj\Debug\Quanlybanhang.exe
+D:\quanlybanhang\obj\Debug\Quanlybanhang.pdb
+D:\quanlybanhang\bin\Debug\Quanlybanhang.exe
+D:\quanlybanhang\bin\Debug\Quanlybanhang.pdb
+D:\quanlybanhang\obj\Debug\Quanlybanhang.csprojResolveAssemblyReference.cache
+D:\quanlybanhang\obj\Debug\Quanlybanhang.frmDMChatlieu.resources
+D:\quanlybanhang\obj\Debug\Quanlybanhang.Properties.Resources.resources
+D:\quanlybanhang\obj\Debug\Quanlybanhang.csproj.GenerateResource.Cache

@@ -137,7 +137,7 @@ namespace Quanlybanhang
         private void frmDMChatlieu_Load(object sender, EventArgs e)
         {
             Functions.Connect();
-            txtMachatlieu.Enabled = false;
+            txtMachatlieu.Enabled = true;
             btnLuu.Enabled = false;
             btnBoqua.Enabled = false;
             LoadDataGridView();
